@@ -1,0 +1,13 @@
+git clone（克隆地址）克隆
+git push 推送 fetch 取回
+add commit
+git status 查看状态
+git branch -v 查看分支
+git branch 创建分支
+git checkout 进入
+git reflog 查看日志
+insert 添加
+reset 前进后退历史版本
+git reset --hard 加索引
+mkdir新建
+git remote -v 查看别名
